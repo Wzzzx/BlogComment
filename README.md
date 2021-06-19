@@ -1,2 +1,2 @@
-# blogComment
+# BlogComment
 Blog Comment
